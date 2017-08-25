@@ -1,11 +1,11 @@
 # Site settings
-title: 艾里克de梦
+title: PxrGO
 layout: posts
 email: pyericz@yahoo.com 
 description: "人生最曼妙的风景，不是命运的波澜，而是内心的淡定与从容"
 baseurl: ""
-url: "http://pyericz.github.io"
-github_username:  pyericz
+url: "http://pxrgo.github.io"
+github_username:  pxrgo
 timezone: Asian/Shanghai
 
 author: Eric Zhang
@@ -18,4 +18,4 @@ markdown: kramdown
 permalink: pretty
 
 highlighter: rouge
-github: https://github.com/pyericz/pyericz.github.io.git
+github: https://github.com/pxrgo/pxrgo.github.io.git
